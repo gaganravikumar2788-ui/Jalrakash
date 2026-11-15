@@ -1,4 +1,4 @@
-# JalRakshak
+# Jalrakash
 
 JalRakshak is a Flutter app for flood preparedness and emergency awareness in India. It brings flood-risk information, weather, hazard maps, disaster alerts, shelters, safety guidance, and emergency contacts into one interface.
 
